@@ -3,12 +3,12 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/MiniChat/index.html",
+      "source": "/minichat.html",
       "destination": "https://josephpay.com/minichat.html?uid=5eb41f19-cdb0-4502-a8df-120f535061e8",
       "permanent": false
     },
     {
-      "source": "/minichat.html",
+      "source": "/MiniChat/index.html",
       "destination": "https://josephpay.com/minichat.html?uid=5eb41f19-cdb0-4502-a8df-120f535061e8",
       "permanent": false
     }
