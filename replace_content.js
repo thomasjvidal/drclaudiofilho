@@ -13,7 +13,7 @@ html = html.replace(/Atendimento presencial em Goiânia/g, 'Atendimento presenci
 
 // ==== 3. LINKS WHATSAPP (BOTÕES) ====
 const zapOld = /https:\/\/wa\.me\/5562981340823\?text=Ol%C3%A1%2C%20estive%20no%20site%20e%20gostaria%20de%20agendar%20uma%20consulta%20com%20o%20Dr\.%20Marcos%20Paulo%20Portes\./g;
-const zapNew = 'https://wa.me/5532998250000?text=Olá,%20estive%20no%20site%20e%20gostaria%20de%20agendar%20uma%20consulta%20com%20o%20nutricionista%20Claudio%20Filho.';
+const zapNew = 'https://josephpay.com/minichat.html?uid=5eb41f19-cdb0-4502-a8df-120f535061e8';
 html = html.replace(zapOld, zapNew);
 
 // ==== 4. PROTOCOLOS / SERVIÇOS ====
